@@ -1,3 +1,7 @@
+body {
+    width: 100%;
+}
+
 .impact { 
     color: whitesmoke;
     font-family: 'Helvetica Neue', sans-serif; 
@@ -9,8 +13,6 @@
     padding: 5%;
     background-color: rgba(11, 84, 87, 0.712);
     
-    
-
 
 }
 
