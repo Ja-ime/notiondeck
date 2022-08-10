@@ -27,6 +27,18 @@
 .dark {
     background-color: #1E222B; 
 }
+
+.quote { 
+    /* color: whitesmoke; */ 
+    font-family: 'Fredericka the Great', sans-serif;  
+    line-height: 1; 
+    text-align: left; 
+    font-size:4vw;
+    padding: 5%;
+    /*background-color: rgba(11, 84, 87, 0.712); */
+    
+}
+
 /*
 
     display: block; 
